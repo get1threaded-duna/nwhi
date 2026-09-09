@@ -17,14 +17,11 @@ reasoning behind them.
 design-md/
   superhuman/
     DESIGN.md      # Superhuman-inspired editorial/SaaS system
-  caveman/
-    DESIGN.md      # Primal/paleo concept system — charcoal, parchment, fire-ember
 ```
 
 | System | Summary |
 |---|---|
 | [`superhuman`](design-md/superhuman/DESIGN.md) | Three-canvas editorial system — indigo-navy hero, white body, deep-teal closing band. Super Sans VF at sub-default weights (460/540/600), tight display leading, rounded-rectangle CTAs. |
-| [`caveman`](design-md/caveman/DESIGN.md) | Primal "carved from stone, lit by fire" system — soot-charcoal hero, parchment body, fire-ember closing band. Monumental condensed caps (Oswald), sturdy slab body (Zilla Slab), hard square-cut edges, cave-pigment palette. |
 
 More design systems drop into `design-md/<name>/DESIGN.md` over time.
 
